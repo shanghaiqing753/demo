@@ -5,4 +5,8 @@ package com.example.demo;
  */
 
 public class helloWorld {
+    public static void main(String[] strs){
+        System.out.println("test");
+
+    }
 }
